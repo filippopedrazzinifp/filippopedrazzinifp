@@ -2,6 +2,7 @@
 <h3 align="center">A Software Engineer and Machine Learning expert from Italy</h3>
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫 How to reach me **filippo.pedrazzini@joandko.io**
 
 <p align="left">
