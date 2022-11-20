@@ -2,23 +2,11 @@
 
 <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
 
-```bash
-python main.py
-```
-
-```python
-print("🇮🇹 Italian")
-print("💾 Software Engineer")
-print("🤖 Data Scientist")
-print("🎾 Padel Addicted")
-print("💲 Bitcoin Maximalist")
-```
+🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 🎾 `Padel addicted` 💲 `Bitcoin Maximalist`
 
 - 💻 Working as CTO at <a href="https://grand.io">@Grand</a>
 - 💼 Working as CTO at <a href="https://sicuro.it">@Sicuro</a>
 - 🤖 Working as  Data Engineer at <a href="https://gavagai.io">@Gavagai</a>
-
-
 
 ## 📫 How to reach me
 
