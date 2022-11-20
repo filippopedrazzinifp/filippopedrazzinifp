@@ -2,7 +2,7 @@
 
 🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist`
 
-<img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="side Image" align="right" width="auto" height="150" />
+<img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="right" width="300" height="auto" />
 
 ## 💼 Working hard
 
