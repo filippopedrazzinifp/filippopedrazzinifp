@@ -4,9 +4,9 @@
 
 ## 💼 Working hard
 
-- 🇸🇪 <a href="https://grand.io">@Grand</a> `CTO`
-- 🇸🇪 <a href="https://gavagai.io">@Gavagai</a> `Data Engineer`
-- 🇮🇹 <a href="https://sicuro.it">@Sicuro</a> `CTO`
+- 🇸🇪 <a href="https://grand.io">@Grand</a> `CTO from September 2022`
+- 🇸🇪 <a href="https://gavagai.io">@Gavagai</a> `Data Engineer from June 2018`
+- 🇮🇹 <a href="https://sicuro.it">@Sicuro</a> `CTO from August 2022`
 ## 📫 How to reach me
 
 If you want to have a call just drop me an <a href="mailto:filippo.pedrazzini@joandko.io">Email</a>
