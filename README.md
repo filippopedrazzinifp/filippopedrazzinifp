@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
-<h3 align="center"> 💻 Software Engineer | 🤖 Data Scientist | 💸 BTC Maximalist | 🎾 Padel Addicted </h3>
+<h3 align="center"> 💻 Software Engineer | 🤖 Data Scientist | 🎾 Padel Addicted </h3>
 
 <h3 align="left">Connect with me:</h3>
 
