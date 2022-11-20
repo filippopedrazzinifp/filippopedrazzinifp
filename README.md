@@ -1,6 +1,8 @@
 <h2 align="left">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Filipppo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
-<iframe src="https://giphy.com/embed/kbRb4eyCNC0aMz5x68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68">via GIPHY</a></p>
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+<!-- <iframe src="https://giphy.com/embed/kbRb4eyCNC0aMz5x68" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-computer-typing-hacking-kbRb4eyCNC0aMz5x68">via GIPHY</a></p> -->
 
 A Software Engineer and Data Scientist from Italy. Padel addicted. Bitcoin Maximalist.
 
