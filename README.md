@@ -4,9 +4,9 @@
 
 A Software Engineer and Data Scientist from Italy. Padel addicted. Bitcoin Maximalist.
 
-- 💻 *Working as CTO at* <a href="https://grand.io">@Grand</a>
-- 💻 *Working as CTO at* <a href="https://sicuro.it">@Sicuro</a>
-- 🤖 *Working as  Data Engineer at* <a href="https://gavagai.io">@Gavagai</a>
+- 💻 Working as CTO at <a href="https://grand.io">@Grand</a>
+- 💻 Working as CTO at <a href="https://sicuro.it">@Sicuro</a>
+- 🤖 Working as  Data Engineer at <a href="https://gavagai.io">@Gavagai</a>
 
 
 
