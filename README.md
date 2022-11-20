@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Filipppo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h2 align="left">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Filipppo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 A Software Engineer and Data Scientist from Italy. Padel addicted. Bitcoin Maximalist.
 
@@ -6,9 +6,11 @@ A Software Engineer and Data Scientist from Italy. Padel addicted. Bitcoin Maxim
 - 💻 *Working as CTO at* <a href="https://sicuro.it">@Sicuro</a>
 - 🤖 *Working as  Data Engineer at* <a href="https://gavagai.io">@Gavagai</a>
 
+
+
 ### 📫 How to reach me
 
-<a href="mailto:filippo.pedrazzini@joandko.io"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a>
+If you want to have call just drop me an <a href="mailto:filippo.pedrazzini@joandko.io">Email</a>
 
 ### 🔧 Languages & Tools
 
