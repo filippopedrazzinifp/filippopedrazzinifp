@@ -2,7 +2,8 @@
 
 <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="right" width="auto" height="175" />
 
-🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist` 🐍 `Python Lover`
+🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 
+🎾 `Padel Addicted` 💲 `Bitcoin Maximalist` 🐍 `Python Lover`
 ### 💼 Working Hard
 
 - 🇸🇪 CTO at <a href="https://grand.io">@Grand</a>
