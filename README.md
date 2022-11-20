@@ -6,7 +6,7 @@
 
 ## 💼 Working hard
 
-- 💻 <a href="https://grand.io">@Grand</a> `CTO`
+- 💾 <a href="https://grand.io">@Grand</a> `CTO`
 - 💻 <a href="https://sicuro.it">@Sicuro</a> `CTO`
 - 🤖 <a href="https://gavagai.io">@Gavagai</a> `Data Engineer`
 
