@@ -5,9 +5,9 @@
 🇮🇹 `Italian` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist`
 ### 💼 Working Hard
 
-- 🇸🇪 CTO at <a href="https://grand.io">@Grand</a>
-- 🇸🇪 Data Engineer at <a href="https://gavagai.io">@Gavagai</a> 
-- 🇮🇹 Strategic CTO at <a href="https://sicuro.it">@Sicuro</a> 
+- 🇸🇪 `CTO at` <a href="https://grand.io">@Grand</a>
+- 🇸🇪 `Data Engineer at` <a href="https://gavagai.io">@Gavagai</a> 
+- 🇮🇹 `Strategic CTO at` <a href="https://sicuro.it">@Sicuro</a> 
 
 ### 📫 How to reach me
 
