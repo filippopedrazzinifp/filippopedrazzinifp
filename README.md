@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo</h1>
+
 <h3 align="center"> 💻 Software Engineer | 🤖 Data Scientist | 🎾 Padel Addicted </h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -15,5 +16,5 @@
 
 - 💻 CTO at <a href="https://grand.io">@Grand</a>
 - 💻 CTO at <a href="https://sicuro.it">@Sicuro</a>
-- 🤖 Data Engineer <a href="https://gavagai.io">@Gavagai</a>
+- 🤖 Data Engineer at <a href="https://gavagai.io">@Gavagai</a>
 
