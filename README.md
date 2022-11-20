@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Filipppo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1 align="left">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Filipppo</h1>
 
 <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="right" width="auto" height="175" />
 
@@ -9,7 +9,7 @@
 - 🇸🇪 `Data Engineer at` <a href="https://gavagai.io">@Gavagai</a> 
 - 🇮🇹 `Strategic CTO at` <a href="https://sicuro.it">@Sicuro</a> 
 
-### 📫 How to reach me
+### 📫 How to Reach Me
 
 If you want to have a call just drop me an <a href="mailto:filippo.pedrazzini@joandko.io">Email</a>
 
