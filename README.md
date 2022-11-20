@@ -4,6 +4,7 @@
 
 <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="right" width="300" height="auto" />
 
+
 ## 💼 Working hard
 
 - 🇸🇪 CTO at <a href="https://grand.io">@Grand</a>
