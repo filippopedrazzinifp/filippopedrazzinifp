@@ -2,10 +2,20 @@
 
 <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="side Image" align="right" width="300" height="auto" />
 
-A Software Engineer and Data Scientist from Italy. Padel addicted. Bitcoin Maximalist.
+```bash
+python main.py
+```
+
+```python
+print("🇮🇹 Italian")
+print("💾 Software Engineer")
+print("🤖 Data Scientist")
+print("🎾 Padel Addicted")
+print("💲 Bitcoin Maximalist")
+```
 
 - 💻 Working as CTO at <a href="https://grand.io">@Grand</a>
-- 💻 Working as CTO at <a href="https://sicuro.it">@Sicuro</a>
+- 💼 Working as CTO at <a href="https://sicuro.it">@Sicuro</a>
 - 🤖 Working as  Data Engineer at <a href="https://gavagai.io">@Gavagai</a>
 
 
