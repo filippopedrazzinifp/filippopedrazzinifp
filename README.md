@@ -13,7 +13,7 @@
 
 <h3 align="left">Helping out few Companies</h3>
 
-- 💻 CTO at https://grand.io
-- 💻 CTO at https://sicuro.it
-- 🤖 DataEngineer at https://gavagai.io
+- 💻 CTO at <a href="https://grand.io">@Grand</a>
+- 💻 CTO at <a href="https://sicuro.it">@Sicuro</a>
+- 🤖 Data Engineer <a href="https://gavagai.io">@Gavagai</a>
 
