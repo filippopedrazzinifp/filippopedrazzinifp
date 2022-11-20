@@ -2,11 +2,14 @@
 
 🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist` 🐍 `Python Lover`
 
+<img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="right" width="300" height="auto" />
+
 ## 💼 Working hard
 
-- 🇸🇪 <a href="https://grand.io">@Grand</a> `CTO from September 2022`
-- 🇸🇪 <a href="https://gavagai.io">@Gavagai</a> `Data Engineer from June 2018`
-- 🇮🇹 <a href="https://sicuro.it">@Sicuro</a> `CTO from August 2022`
+- 🇸🇪 CTO at <a href="https://grand.io">@Grand</a>
+- 🇸🇪 Data Engineer at <a href="https://gavagai.io">@Gavagai</a> 
+- 🇮🇹 Strategic CTO at <a href="https://sicuro.it">@Sicuro</a> 
+
 ## 📫 How to reach me
 
 If you want to have a call just drop me an <a href="mailto:filippo.pedrazzini@joandko.io">Email</a>
@@ -15,4 +18,3 @@ If you want to have a call just drop me an <a href="mailto:filippo.pedrazzini@jo
 
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="30" height="30"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 
-<img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="left" width="300" height="auto" />
