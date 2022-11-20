@@ -1,8 +1,8 @@
 <h1 align="center">Hello <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> I am Filipppo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
-🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist` 🐍 `Python Lover`
-
 <img src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif" alt="Side Image" align="right" width="auto" height="175" />
+
+🇮🇹 `Italian` 💾 `Software Engineer` 🤖 `Data Scientist` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist` 🐍 `Python Lover`
 
 ### 💼 Working hard
 
