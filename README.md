@@ -8,6 +8,7 @@
 - 🇸🇪 `CTO` <a href="https://grand.io">@Grand</a>
 - 🇸🇪 `Data Engineer` <a href="https://gavagai.io">@Gavagai</a> 
 - 🇮🇹 `Strategic CTO` <a href="https://sicuro.it">@Sicuro</a> 
+- 🇮🇹 `CTO & Co-Founder` <a href="https://tackcrypto.io">@Tack</a> 
 
 ### 📫 How to Reach Me
 
