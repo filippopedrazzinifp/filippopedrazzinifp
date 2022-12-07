@@ -5,7 +5,7 @@
 🇮🇹 `Italian` 🎾 `Padel Addicted` 💲 `Bitcoin Maximalist`
 ### 💼 Working Hard
 
-- 🇸🇪 `CTO` <a href="https://grand.io">@Grand</a>
+- 🇸🇪 `CTO` <a href="https://www.grand.io">@Grand</a>
 - 🇸🇪 `Data Engineer` <a href="https://gavagai.io">@Gavagai</a> 
 - 🇮🇹 `Strategic CTO` <a href="https://sicuro.it">@Sicuro</a> 
 - 🇮🇹 `CTO & Co-Founder` <a href="https://tackcrypto.io">@Tack</a> 
